@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fromadhana
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning python
+- 👀 I’m interested in blockchain technology, ETL, & Data Engineering.
+- 🌱 I’m currently learning python & SQL.
 
 
 <!---
